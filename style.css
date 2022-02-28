@@ -14,8 +14,13 @@ a.nav-link {
     font-weight: 500;
 }
 
-/* Navbar End */
-
 .dropdown-item.active, .dropdown-item:active{
     background-color: #5D16A6;
+}
+
+/* Navbar End */
+
+.carousel {
+    background-color: #C4C4C4;
+    height: 615px;
 }

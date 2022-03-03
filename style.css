@@ -246,6 +246,12 @@ footer img{
     border-right: 1px solid #C4C4C4;
 }
 
+@media screen and (max-width:767px) {
+    .line{
+        border : none;
+    }
+}
+
 .text-footer-menu{
     color: #ffffff;
     font-size: 15px;
